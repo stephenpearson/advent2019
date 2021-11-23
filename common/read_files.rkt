@@ -1,5 +1,6 @@
 #lang racket
 
+(provide read-file-lines)
 (provide read-file-of-numbers)
 (provide read-csv-of-numbers)
 
